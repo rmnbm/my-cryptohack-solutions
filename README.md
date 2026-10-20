@@ -1,4 +1,4 @@
-# CryptoHack Solutions
+# My CryptoHack Solutions
 
 My solutions to the challenges on [CryptoHack](https://cryptohack.org/), a free platform for learning modern
 cryptography by solving puzzles and breaking flawed implementations.
@@ -80,7 +80,7 @@ underlying concept or vulnerability, followed by a self-contained Python solutio
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/cryptohack.git
+git clone https://github.com/rmnbm/my-cryptohack-solutions.git
 cd cryptohack
 python -m venv .venv
 source .venv/bin/activate
