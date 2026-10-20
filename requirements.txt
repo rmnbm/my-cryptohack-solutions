@@ -1,0 +1,8 @@
+cypari2==2.2.4
+jupyter
+numpy==2.4.4
+pillow==12.2.0
+pwntools==4.15.0
+pycryptodome==3.23.0
+requests==2.33.1
+sympy==1.14.0
